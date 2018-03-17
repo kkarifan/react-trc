@@ -1,0 +1,26 @@
+{
+  "name": "react-trc",
+  "version": "1.0.0",
+  "description": "simple react-transition for change classNames",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkarifan/react-trc.git"
+  },
+  "keywords": [
+    "react",
+    "transition",
+    "css",
+    "className"
+  ],
+  "author": "karifan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kkarifan/react-trc/issues"
+  },
+  "homepage": "https://github.com/kkarifan/react-trc#readme",
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "prop-types": "^15.6.1"
+  }
+}
