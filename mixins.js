@@ -1,6 +1,6 @@
 const Rtc = require('./rtc');
 
-
+//ф
 class DivRtc extends Rtc {
 	constructor(props) {
 		super(props);
